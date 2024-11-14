@@ -1,0 +1,10 @@
+C:\Users\gosia\source\repos\Lab3_1\Lab3_1\bin\Debug\Lab3_1.exe.config
+C:\Users\gosia\source\repos\Lab3_1\Lab3_1\bin\Debug\Lab3_1.exe
+C:\Users\gosia\source\repos\Lab3_1\Lab3_1\bin\Debug\Lab3_1.pdb
+C:\Users\gosia\source\repos\Lab3_1\Lab3_1\obj\Debug\Lab3_1.csproj.AssemblyReference.cache
+C:\Users\gosia\source\repos\Lab3_1\Lab3_1\obj\Debug\Lab3_1.Form1.resources
+C:\Users\gosia\source\repos\Lab3_1\Lab3_1\obj\Debug\Lab3_1.Properties.Resources.resources
+C:\Users\gosia\source\repos\Lab3_1\Lab3_1\obj\Debug\Lab3_1.csproj.GenerateResource.cache
+C:\Users\gosia\source\repos\Lab3_1\Lab3_1\obj\Debug\Lab3_1.csproj.CoreCompileInputs.cache
+C:\Users\gosia\source\repos\Lab3_1\Lab3_1\obj\Debug\Lab3_1.exe
+C:\Users\gosia\source\repos\Lab3_1\Lab3_1\obj\Debug\Lab3_1.pdb
